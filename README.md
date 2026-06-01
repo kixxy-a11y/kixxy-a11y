@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year Information Technology student with a strong passion for learning and improving my skills in technology. I aim to become a cybersecurity specialist and continuously explore new tools, systems, and concepts to grow in the field. I actively participate in seminars and seek opportunities to gain real-world experience.
+I am a third-year Information Technology student with a strong passion for learning and improving my skills in technology. I aim to become a cybersecurity specialist and continuously explore new tools, systems, and concepts to grow in the field. I actively participate in seminars and seek opportunities to gain real-world experience.
 
 
 ## 🌐 Socials:
