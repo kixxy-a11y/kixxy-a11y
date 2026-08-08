@@ -20,7 +20,7 @@ I may be a late bloomer in this industry, but I believe it's never too late to s
 * 🎓 Information Technology Student @ Quezon City University
 * 🌱 Currently learning: Full-Stack Development
 * 🧩 Practicing Frontend Development through Frontend Mentor challenges
-  [View my Frontend Mentor profile →](https://www.frontendmentor.io/profile/ry-cr8)
+  [Frontend Mentor](https://www.frontendmentor.io/profile/ry-cr8)
 * 🤝 Interested in Web Development, Full-Stack Development, and Cybersecurity
 * 📍 Quezon City, Philippines
 
